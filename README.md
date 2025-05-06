@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: {new Date().toLocaleDateString()}
+Last updated: 6 May 2025
 
 ## Table of Contents
 - [1. Introduction](#1-introduction)
